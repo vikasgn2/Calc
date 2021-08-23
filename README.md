@@ -25,6 +25,11 @@ If using the ``.apk`` file
 [Android Studio](https://developer.android.com/studio): IDE used for android development<br>
 [Java](https://www.java.com/en/): Main programming language used
 
+## Project Demo
+<p align="center">
+  <img width=350 height=400 src="https://github.com/vikasgn2/Calc/blob/master/Calc_Demo/Calculator%20Demo.gif">
+ </p>
+
 ## Contributors 
 <table>
   <tr>
