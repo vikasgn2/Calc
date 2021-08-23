@@ -27,7 +27,7 @@ If using the ``.apk`` file
 
 ## Project Demo
 <p align="center">
-  <img width=350 height=500 src="https://github.com/vikasgn2/Calc/blob/master/Calc_Demo/Calculator%20Demo.gif">
+  <img width=300 height=500 src="https://github.com/vikasgn2/Calc/blob/master/Calc_Demo/Calculator%20Demo.gif">
  </p>
 
 ## Contributors 
