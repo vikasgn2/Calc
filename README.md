@@ -34,5 +34,6 @@ If using the ``.apk`` file
 <table>
   <tr>
     <td align="center"><a href="https://github.com/vikasgn2"><img src="https://avatars.githubusercontent.com/u/46003079?v=4" width="100px;" alt=""/><br /><sub><b>Vikas</b></sub></a></td>
+    <td align="center"><a href="https://github.com/goutami-15"><img src="https://avatars.githubusercontent.com/u/63532213?v=4" width="100px;" alt=""/><br /><sub><b>Goutami</b></sub></a></td>
   </tr>
 </table>
