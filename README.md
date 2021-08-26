@@ -23,9 +23,23 @@ If using the ``.apk`` file
 
 ## Tools Used
 [Android Studio](https://developer.android.com/studio): IDE used for android development<br>
-[Java](https://www.java.com/en/): Main programming language used
+[Java](https://www.java.com/en/): Main programming language used<br>
+[Rhino](https://github.com/mozilla/rhino): Javascript in java
+
+## Important files to remember
+
+  ```MainActivity.java```: Main java file where all the imports happen and code is written to handle the app's functionality.<br>
+  ```activity_main.xml```: xml file for to provide layout and ui to the app.<br>
+  ```colors.xml```: Colors in hex code can be declared here and called in activity xml to change colours of the ui.<br>
+  ```res```: Resources folder where app icon and all the important resources required for the app are placed.<br>
+
 
 ## Project Demo
+
+### App Layout xml file
+<img src="https://github.com/vikasgn2/Calc/blob/master/Calc_Demo/xml_layout.png">
+
+### App running on android v11 device
 <p align="center">
   <img width=300 height=550 src="https://github.com/vikasgn2/Calc/blob/master/Calc_Demo/Calculator%20Demo.gif">
  </p>
